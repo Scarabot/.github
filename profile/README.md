@@ -1,4 +1,6 @@
-##  [ScaraBot](https://scarabot.github.io/ "Scarabot's Homepage")
+
+[![ScaraBot](https://github.com/Scarabot/scarabot.github.io/blob/master/img/header.png)](https://scarabot.github.io)
+## Open Source Robotic Platform for Education
 ### Quicklinks
 * [Slack](https://join.slack.com/t/openscarabot/shared_invite/zt-ggh9wuk1-RLv9vjqydCWQv3BDtAYGkw)  
 * [Confluence](https://openscarabot.atlassian.net/wiki/spaces/SCA/overview)  
